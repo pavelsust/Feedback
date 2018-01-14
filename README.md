@@ -34,7 +34,7 @@ dependencies {
  
  ```java
  Intent intent = new Intent(YourActivity.this , Feedback.class);
-        MoreActivity.url = "your json file link";
+       
         startActivity(intent);
 ```
 
