@@ -19,7 +19,7 @@ allprojects {
 
 ```xml
 dependencies {
-    compile 'com.github.paveltech:Feedback:1.0.0'
+    compile 'com.github.paveltech:Feedback:1.0.1'
 }
 ```
 
