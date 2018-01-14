@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">myffedback</string>
+
+    <string name="feedback_input">App Feedback</string>
+    <string name="name_input">Name</string>
+    <string name="email_input">Email</string>
+    <string name="feedback_input_hint">Enter your feedback</string>
+    <string name="name_input_hint">Enter your name</string>
+    <string name="email_input_hint">Enter your email</string>
+    <string name="dialog_content">This is a demo app, showing you how you can use Google Spreadsheet as your feedback form inside any app. Developed by Sadiq.</string>
+    <string name="github_url">https://github.com/sadiqrazasyed</string>
+    <string name="title_activity_feedback">Feedback</string>
+</resources>
